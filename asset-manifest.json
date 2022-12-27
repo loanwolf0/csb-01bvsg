@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://loanwolf0.github.io/csb-01bvsg/static/css/main.b1a551b4.chunk.css",
+    "main.js": "https://loanwolf0.github.io/csb-01bvsg/static/js/main.3ae86d61.chunk.js",
+    "main.js.map": "https://loanwolf0.github.io/csb-01bvsg/static/js/main.3ae86d61.chunk.js.map",
+    "runtime-main.js": "https://loanwolf0.github.io/csb-01bvsg/static/js/runtime-main.1f1e78fb.js",
+    "runtime-main.js.map": "https://loanwolf0.github.io/csb-01bvsg/static/js/runtime-main.1f1e78fb.js.map",
+    "static/js/2.8f1c0650.chunk.js": "https://loanwolf0.github.io/csb-01bvsg/static/js/2.8f1c0650.chunk.js",
+    "static/js/2.8f1c0650.chunk.js.map": "https://loanwolf0.github.io/csb-01bvsg/static/js/2.8f1c0650.chunk.js.map",
+    "index.html": "https://loanwolf0.github.io/csb-01bvsg/index.html",
+    "static/css/main.b1a551b4.chunk.css.map": "https://loanwolf0.github.io/csb-01bvsg/static/css/main.b1a551b4.chunk.css.map",
+    "static/js/2.8f1c0650.chunk.js.LICENSE.txt": "https://loanwolf0.github.io/csb-01bvsg/static/js/2.8f1c0650.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f1e78fb.js",
+    "static/js/2.8f1c0650.chunk.js",
+    "static/css/main.b1a551b4.chunk.css",
+    "static/js/main.3ae86d61.chunk.js"
+  ]
+}
